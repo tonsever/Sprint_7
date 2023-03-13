@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.yandex.praktikum.sprintseven.model.CreatingOrderTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.625 s - in ru.yandex.praktikum.sprintseven.model.CreatingOrderTest
